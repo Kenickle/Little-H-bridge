@@ -1,6 +1,4 @@
 # Little-H-bridge
-A little H-bridge for a big boy
-
 Assebly:
   Solder wires to the outer pins then solder transistors in the four slots with 3 holes.
 
